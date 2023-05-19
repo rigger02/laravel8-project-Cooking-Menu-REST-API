@@ -28,6 +28,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 4. php artisan migrate
 5. php artisan db:seed
 6. php artisan serve
+7. enjoy
 
 ## Learning Laravel
 
