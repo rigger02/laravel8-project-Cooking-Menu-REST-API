@@ -21,6 +21,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## guide use this rest api project
+1. git clone https://github.com/rigger02/laravel_Developing-a-Cooking-Menu-Application-REST-API
+2. composer update
+3. composer dump-autoload
+4. php artisan migrate
+5. php artisan db:seed
+6. php artisan serve
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
